@@ -1,0 +1,8 @@
+def print_name(x,y):
+    print(x)
+    print(y)
+
+x = input("输入自己的姓名")
+y = int(input("输入自己的姓龄"))
+    
+print_name(x,y)

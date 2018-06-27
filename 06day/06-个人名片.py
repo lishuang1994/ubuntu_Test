@@ -1,0 +1,7 @@
+name = input("请输入你的名字")
+height = float(input("请输入你的身高"))
+weight =input("请输入你的体重")
+shool = input("请输入你的学校")
+ID = input("请输入你的家庭住址")
+province = input("请输入你的省份")
+print("名字%s\n身高%f\n体重%s\n学校%s\n家庭住址%s\n省份%s"%(name,height,weight,shool,ID,province))
